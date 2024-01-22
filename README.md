@@ -12,6 +12,10 @@ There was much more I wanted to like choosing location, harden things, add more 
 
 ## running app
 
+### apk
+find the apk at this link, and drag and drop into emulator, or get it onto a physical device. (may need to enable unknown sources).
+[apk file download](https://drive.google.com/file/d/1A3YlAY-m_1SPcraWddJG04QzvwBPzSck/view?usp=sharing)
+
 This app can be ran in chrome or on android/ios.
 
 See Flutter's documentation for instructions for how to build the project.
@@ -35,3 +39,4 @@ then run from the project root directory:
 ```sh
 flutter test
 ```
+
