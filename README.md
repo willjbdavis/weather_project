@@ -18,7 +18,11 @@ find the apk at this link, and drag and drop into emulator, or get it onto a phy
 
 This app can be ran in chrome or on android/ios.
 
+### building
 See Flutter's documentation for instructions for how to build the project.
+
+> Flutter 3.16.7
+> Tools • Dart 3.2.4 • DevTools 2.28.5
 
 ```sh
 flutter run
